@@ -10,7 +10,6 @@ mvn clean test
 #To run integration test
 
 ```
-cd target
 mvn integration-test -P integration
 ```
 
